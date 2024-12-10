@@ -1,7 +1,7 @@
 # #create a to do list
 # task_menu = ["Add tasks", "View tasks", "Delete tasks", "Quit the application"]
 
-tasks = []
+tasks = [] 
 
 # To-Do List Application
 #create a list menu as a function
